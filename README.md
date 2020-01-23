@@ -1,3 +1,3 @@
 # Ejemplo
 
-[Haga clic aquí](page.html)
+[Haga clic aquí](https://htmlpreview.github.io/?https://github.com/sergio-tello/Ejemplo/blob/master/page.html)
